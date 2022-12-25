@@ -1,0 +1,4 @@
+# ignore everything inside logs/ directory
+logs/
+logs/*.h5
+env/
